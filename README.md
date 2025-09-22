@@ -7,3 +7,6 @@ Endless Protocol is a next-generation ecosystem focused on Web3 innovation. 🚀
 It empowers developers, creators, and communities to build a truly decentralized future.  
 Key Features
 - 🔗 Cross-chain interoperability
+Scalable infrastructure  
+- 🛠️ Builder-first approach  
+- 🌍 Open-source contributions
