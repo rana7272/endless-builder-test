@@ -10,3 +10,6 @@ Key Features
 Scalable infrastructure  
 - 🛠️ Builder-first approach  
 - 🌍 Open-source contributions
+🧑‍💻 Builder's Vision
+Builders are the backbone of the Endless ecosystem.  
+Together, we will:
