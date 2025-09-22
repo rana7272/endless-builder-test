@@ -16,3 +16,8 @@ Together, we will:
 Build tools for the community  
 2. Create long-term value  
 3. Push Web3 adoption globally
+Contribution Guide
+- Fork this repo  
+- Make your changes  
+- Commit & push updates  
+- Help grow the Endless ecosystem
