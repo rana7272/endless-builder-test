@@ -17,5 +17,3 @@ Build tools for the community
 2. Create long-term value  
 3. Push Web3 adoption globally
 Contribution Guide
-- Fork this repo  
-- 
