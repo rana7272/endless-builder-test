@@ -18,5 +18,4 @@ Build tools for the community
 3. Push Web3 adoption globally
 Contribution Guide
 - Fork this repo  
-- Make your changes  
 - 
