@@ -21,5 +21,5 @@ Contribution Guide
 - Make your changes  
 - Commit & push updates  
 - Help grow the
-Added a new feature description  
+ 
 
