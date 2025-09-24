@@ -14,4 +14,4 @@ Scalable infrastructure
 Builders are the backbone of the Endless ecosystem.  
 Together, we will:
 Build tools for the community  
-2. Create long-term value  
+2. Create long-term 
