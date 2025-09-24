@@ -20,6 +20,5 @@ Contribution Guide
 - Fork this repo  
 - Make your changes  
 - Commit & push updates  
-- Help grow the
- 
+- 
 
