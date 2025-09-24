@@ -15,5 +15,4 @@ Builders are the backbone of the Endless ecosystem.
 Together, we will:
 Build tools for the community  
 2. Create long-term value  
-3. Push Web3 adoption globally
-Contribution Guide
+3. Push Web3 adopn
