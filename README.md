@@ -12,5 +12,3 @@ Scalable infrastructure
 - 🌍 Open-source contributions
 🧑‍💻 Builder's Vision
 Builders are the backbone of the Endless ecosystem.  
-Together, we will:
-Build tools for the 
