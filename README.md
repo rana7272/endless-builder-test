@@ -22,4 +22,4 @@ Contribution Guide
 - Commit & push updates  
 - Help grow the Endless ecosystem
 Added a new feature description  
-- Updated builder vision  
+
