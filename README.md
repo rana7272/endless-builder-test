@@ -19,4 +19,4 @@ Build tools for the community
 Contribution Guide
 - Fork this repo  
 - Make your changes  
-- Commit & push updates
+- 
