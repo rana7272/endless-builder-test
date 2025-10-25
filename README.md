@@ -11,4 +11,4 @@ Scalable infrastructure
 - 🛠️ Builder-first approach  
 - 🌍 Open-source contributions
 🧑‍💻 Builder's Vision
-Builders are the backbone of the Endless ecosystem.  
+Builders are the backbone of the Endless ecosystem.
